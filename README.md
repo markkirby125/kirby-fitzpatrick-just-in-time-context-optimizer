@@ -2,13 +2,31 @@
 
 Treat codebase context as surgical on-demand food rather than upfront context dumps.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-just-in-time-context-optimizer](https://github.com/markkirby125/kirby-fitzpatrick-just-in-time-context-optimizer)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: System Grounding
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "The Top 1% of Experts Think on Paper—Here's How"
+* **Direct Video URL**: https://www.youtube.com/watch?v=VkXMlrvq29o
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "The Top 1% of Experts Think on Paper—Here's How"
 * **Direct Video URL**: https://www.youtube.com/watch?v=VkXMlrvq29o
+
 ---
 
 ## Overview
