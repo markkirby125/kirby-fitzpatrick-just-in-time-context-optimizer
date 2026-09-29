@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-just-in-time-context-optimizer
-description: "Treat codebase context as surgical on-demand food rather than upfront context dumps." Use this when working on fitzpatrick just in time context optimizer.
+description: "Treat codebase context as surgical on-demand food rather than upfront context dumps. Use this when working on fitzpatrick just in time context optimizer."
 category: "Writing & Communication"
 triggers:
   - "just in time context"
