@@ -9,7 +9,7 @@ triggers:
   - "eliminate context bloat"
   - "on-demand retrieval"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
